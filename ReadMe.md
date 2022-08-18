@@ -1,6 +1,6 @@
 # Flighty
 
-A command line Flight and Hotel booking app written in Java. The final group project for CSCE 247: Software Engineering. Implimented from designed funtional requirements and UML.
+A command line Flight and Hotel booking app written in Java. The final group project for CSCE 247: Software Engineering. Implimented from designed funtional requirements and UML in two weeks of sprinting.
 
 ## Showcase
 
