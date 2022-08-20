@@ -1,6 +1,6 @@
 # Flighty
 
-A command line Flight and Hotel booking app written in Java. The final group project for CSCE 247: Software Engineering. Implemented in two weeks of sprinting after a semester of designing.
+A command line flight and hotel booking app written in Java. The final group project for CSCE 247: Software Engineering. Implemented in two weeks of sprinting after a semester of designing.
 
 ## Showcase
 
